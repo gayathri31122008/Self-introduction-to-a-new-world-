@@ -4,6 +4,6 @@ hello.c
 voidmain()
 {
 printf("hello everyone\n");
-printf ("I'm currently pursuing my b.tech first year in the stream of data science");
-printf (" I'm very much interested in learning and exploring something new."):
+printf ("I'm currently pursuing my b.tech first year in the stream of data science\n");
+printf (" I'm very much interested in learning and exploring something new\n");
 }
